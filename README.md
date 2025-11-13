@@ -16,5 +16,24 @@ From its rich aroma to its stimulating effects, ***coffee remains an indispensab
 1. Improved Focus and Energy
 2. Rich in Antioxidants
 3. Enhanced Physical Performance
-***
+
+
+## How to starts git
+
+```
+git init
+git config --global user.name [your name]
+git config --global user.email [your email]
+git branch -M main
+```
+
+You can use `git config user.name [your name]` for local repository
+
+
+**Connet with romote ropositories**
+```
+git remote add origin [Web URL]
+git remote -v
+git push -u origin main
+```
 
